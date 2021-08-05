@@ -1,0 +1,16 @@
+name: Hello world
+version: 1.10.1
+description: Hello world plugin to show a smile
+icon:
+  name: smile
+  set: "fontawesome|solid"
+author:
+  name: Petr Moshkalev 
+homepage: https://github.com/flextype-plugins/helloworld
+license: MIT
+dependencies:
+  flextype: 0.9.16
+  twig: '>=2.0.0'
+  admin: '>=1.0.0'
+  site: '>=1.0.0'
+  acl: '>=1.0.0'
